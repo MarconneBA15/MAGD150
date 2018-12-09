@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## My Projects
 
-You can use the [editor on GitHub](https://github.com/MarconneBA15/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### Lab 2: Space
+The first project I am sharing is [Lab 2](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18magd150lab02_Marconnet.zip). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lab 4: Ocean
+[Lab 4](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18magd150lab04_Marconnet.zip).
 
-### Markdown
+### Lab 5: Television
+[Lab 5](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18magd150lab05_Marconnet.zip).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lab 7: Nature
+[Lab 7](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18_magd150_lab07_Marconnet.zip).
+
+### Lab 9: Documentary
+[Lab 9](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18magd150_lab09_Marconnet.zip).
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +33,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarconneBA15/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
