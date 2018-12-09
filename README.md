@@ -1,4 +1,5 @@
 ## Brianna's Projects
+These projects are created with Processing in the fall 2018 semester.
 
 ### Lab 2: Space
 The first project I am sharing is [Lab 2](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18magd150lab02_Marconnet.zip). The space-themed lab's focus was basically on use of color and new shapes. Because of this, I freely experimented with the beginShape(); function to create the asteroid and bezier curves to create the strange green clouds on the planet's surface. After working on the previous lab in black and white, I put a lot of attention into working with color on this first opportunity and spent a lot of time creating a gradient of colors on several objects. 
@@ -14,3 +15,6 @@ The television-themed [Lab 5](https://github.com/MarconneBA15/MAGD150/blob/gh-pa
 
 ### Lab 9: Documentary
 Lastly, [Lab 9](https://github.com/MarconneBA15/MAGD150/blob/gh-pages/f18magd150_lab09_Marconnet.zip) incorporates outside media in the form of images, videos, and audio files. The image at the top of the screen is set so that each time the mouse is clicked, a random new image of a cryptid will replace the last. The user's webcam is used for a live video appearing on the bottom of the screen behind some grass and with invert and posterize filters on top to make the user look like an alien. 
+
+### Overall Thoughts
+I selected each of these five labs because I like them best for their visuals and their user interactivity. I value the time and creative energy I spent making them all as well as other labs of mine (like Lab 8: Movie Poster and Lab 10: 3D Shapes) because they're preparing me for the career I am interested in as a visual effects/video game artist. 
